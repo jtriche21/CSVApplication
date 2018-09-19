@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CSVApplication</string>
+    <string name="use_case_1">Professor\'s Office</string>
+    <string name="use_case_2">Interesting Location</string>
+    <string name="use_case_3">Introductory Location</string>
+    <string name="ex_csv_data">Professor: William Kreahling\n\n
+                                Phone: 828-227-3944\n
+                                Email: wkreahling@email.wcu.edu\n
+                                Office: Stillwell 428</string>
+</resources>
